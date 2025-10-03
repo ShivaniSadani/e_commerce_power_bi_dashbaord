@@ -2,7 +2,7 @@
 
 ✨ Overview
 
-Interactive E-Commerce Sales Dashboard built with Power BI to monitor sales performance, customer behavior, and product trends. Supports data-driven decision-making through dynamic visuals and filters.
+Interactive E-Commerce Sales Dashboard built using Power BI. Helps monitor sales performance, customer behavior, product trends, and regional insights through dynamic visualizations and filters.
 
 🛠 Key Features
 
@@ -12,7 +12,7 @@ Interactive E-Commerce Sales Dashboard built with Power BI to monitor sales perf
 
 👥 Customer Insights: Segment-wise behavior and top customers
 
-🌍 Regional Analysis: Performance across regions or countries
+🌍 Regional Analysis: Sales performance across regions or countries
 
 🎛 Interactive Filters: Date, category, region, and segment slicers
 
@@ -21,15 +21,20 @@ Interactive E-Commerce Sales Dashboard built with Power BI to monitor sales perf
 📂 Data Source
 
 Global Superstore dataset (2011–2014)
-Includes order details, products, customers, sales, discounts, and regions
+Contains order details, products, customer segments, sales, discounts, and regional info
 
 💻 Technologies Used
 
 Power BI Desktop
 
-DAX – for measures and calculated columns
+DAX – measures, calculated columns, and KPIs
 
-Interactive Visualizations – charts, maps, tables, slicers
+Interactive Visualizations – charts, maps, tables, and slicers
+
+🖼 Screenshots
+
+(Add your dashboard images here)
+
 
 
 
